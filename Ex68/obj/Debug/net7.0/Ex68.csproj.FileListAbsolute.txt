@@ -1,0 +1,15 @@
+C:\Users\MS.Bazhina\Desktop\задания\Рекурсия\HW9\Ex68\bin\Debug\net7.0\Ex68.exe
+C:\Users\MS.Bazhina\Desktop\задания\Рекурсия\HW9\Ex68\bin\Debug\net7.0\Ex68.deps.json
+C:\Users\MS.Bazhina\Desktop\задания\Рекурсия\HW9\Ex68\bin\Debug\net7.0\Ex68.runtimeconfig.json
+C:\Users\MS.Bazhina\Desktop\задания\Рекурсия\HW9\Ex68\bin\Debug\net7.0\Ex68.dll
+C:\Users\MS.Bazhina\Desktop\задания\Рекурсия\HW9\Ex68\bin\Debug\net7.0\Ex68.pdb
+C:\Users\MS.Bazhina\Desktop\задания\Рекурсия\HW9\Ex68\obj\Debug\net7.0\Ex68.csproj.AssemblyReference.cache
+C:\Users\MS.Bazhina\Desktop\задания\Рекурсия\HW9\Ex68\obj\Debug\net7.0\Ex68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS.Bazhina\Desktop\задания\Рекурсия\HW9\Ex68\obj\Debug\net7.0\Ex68.AssemblyInfoInputs.cache
+C:\Users\MS.Bazhina\Desktop\задания\Рекурсия\HW9\Ex68\obj\Debug\net7.0\Ex68.AssemblyInfo.cs
+C:\Users\MS.Bazhina\Desktop\задания\Рекурсия\HW9\Ex68\obj\Debug\net7.0\Ex68.csproj.CoreCompileInputs.cache
+C:\Users\MS.Bazhina\Desktop\задания\Рекурсия\HW9\Ex68\obj\Debug\net7.0\Ex68.dll
+C:\Users\MS.Bazhina\Desktop\задания\Рекурсия\HW9\Ex68\obj\Debug\net7.0\refint\Ex68.dll
+C:\Users\MS.Bazhina\Desktop\задания\Рекурсия\HW9\Ex68\obj\Debug\net7.0\Ex68.pdb
+C:\Users\MS.Bazhina\Desktop\задания\Рекурсия\HW9\Ex68\obj\Debug\net7.0\Ex68.genruntimeconfig.cache
+C:\Users\MS.Bazhina\Desktop\задания\Рекурсия\HW9\Ex68\obj\Debug\net7.0\ref\Ex68.dll
